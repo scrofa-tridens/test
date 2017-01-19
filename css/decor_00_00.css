@@ -1,0 +1,213 @@
+
+/* Основные стили */
+
+html, body {
+	height: 100%;
+}
+body {
+	position: relative;
+	min-height: 100%;
+}
+#nav, #basketinfo, #search, #auth, #logo, #sitename, #slogan, #header_phones, #header_text, #Supermarket_Cart_Img, #footer {
+	display: block;
+	position: absolute;
+}
+main, #main, #header, .menu_main, #bread, #content, #area_01, #area_02, #area_03, #footer_pad {
+	display: block;
+	position: relative;
+}
+.menu_main, #bread, #footer {
+	padding-right: 30px;
+}
+.menu_main, #bread, #footer, #content, #area_01 > * {
+	padding-left: 30px;
+}
+#content, #area_01 > * {
+	padding-right: 15px;
+}
+main, #main {
+	width: 100%;
+	max-width: 1600px; min-width: 1000px; min-height: 100%;
+	margin: 0 auto;
+}
+#header {
+	height: 250px;
+	z-index: 20;
+}
+#logo {
+/*	top: px; right: px; bottom: px; left: px;
+	width: px; height: px;*/
+	background-position: left top; background-repeat: no-repeat;
+	z-index: 30;
+}
+#sitename {
+/*	top: px; right: px; bottom: px; left: px;*/
+	z-index: 50;
+}
+#slogan {
+/*	top: px; right: px; bottom: px; left: px;*/
+	z-index: 40;
+}
+#header_phones {
+/*	top: px; right: px; bottom: px; left: px;*/
+	z-index: 20;
+}
+#header_phones .header_phones_prefix {
+}
+#header_text {
+/*	top: px; right: px; bottom: px; left: px;*/
+	z-index: 10;
+}
+#nav {
+	top: 13px; right: 250px;
+	white-space: nowrap;
+	z-index: 90;
+}
+#nav .pseudo_button, #auth .pseudo_button {
+	text-transform: lowercase;
+}
+#basketinfo {
+	top: 60px; right: 30px;
+	z-index: 80;
+}
+#Supermarket_Cart_Img {
+	top: 2px; right: 166px;
+	width: 26px; height: 32px;
+	background-position: left top; background-repeat: no-repeat;
+}
+#basketinfo .service_entry, #auth .service_entry {
+	display: block;
+	text-align: right;
+}
+#search {
+	top: 13px; right: 30px;
+	width: 200px;
+	z-index: 60;
+}
+#auth {
+	top: 161px; right: 30px;
+	width: 200px;
+	z-index: 70;
+}
+#search fieldset, #auth fieldset {
+	position: relative;
+	padding-right: 0;
+	white-space: nowrap;
+	font-size: 0;
+}
+#search_field, #auth_login_field, #auth_password_field {
+	width: 100%;
+	padding-right: 25px;
+	font-size: 13px;
+}
+#search_button, #auth_button {
+	position: relative;
+	margin-top: -1px; left: -21px;
+	z-index: 1;
+}
+#auth_login_field, #auth_password_field, #auth_button {
+	margin-bottom: 6px;
+}
+.menu_main {
+	white-space: nowrap;
+	z-index: 50;
+}
+#bread {
+	text-align: right;
+	z-index: 40;
+}
+#bread a, #bread span {
+	display: inline-block;
+	margin-left: 0.72em;
+	text-align: right;
+}
+#bread a::before, #bread span::before {
+	content: "\2192"; margin-right: 0.72em;
+}
+#bread a:first-child::before, #bread span:first-child::before {
+	display: none;
+}
+#content {
+	z-index: 30;
+}
+#content::after {
+	content: "";
+	display: block;
+	clear: both;
+}
+#area_01 {
+	overflow: hidden;
+/*	display: table;
+	width: 75%;*/
+	z-index: 20;
+}
+#area_02 {
+	float: right;
+	width: 33.333%;
+	z-index: 40;
+}
+#area_03 {
+	float: left;
+	width: 25%;
+	z-index: 60;
+}
+#footer_pad {
+	height: 0;
+	margin-top: 0;	/* Отступ вверх от подвала до контента минус отступы снизу от контента и плюс возможное вылезание вверх от подвала каких-то его элементов. */
+	z-index: -1;
+}
+#footer {
+	right: 0; bottom: 0; left: 0;
+	z-index: 10;
+}
+#footer_text {
+	padding: 5px 30px 13px 0;
+}
+#footer_banners {
+	float: right;
+}
+#footer_banners > * {
+	float: left;
+	margin: 0 0 11px 11px;
+}
+
+/* Разные стили */
+
+*[id*="payment_"] {
+	margin-right: 8px !important; margin-bottom: 8px !important;
+	padding: 0 !important;
+}
+*[id*="payment_"] > a:first-child {
+	display: block;
+	width: 88px; height: 31px;
+	padding: 7px;
+	background-position: center center; background-repeat: no-repeat;
+}
+.block_00 .block_01, .block_00 .block_02, .block_00 .block_03, .block_00 .block_04, .block_00 .block_05, .block_00 .block_11 {
+	overflow: hidden;
+}
+.block_00 .block_01.thumb, .block_00 .block_02.thumb, .block_00 .block_03.thumb, .block_00 .block_04.thumb, .block_00 .block_05.thumb, .block_00 .block_11.thumb, .block_00 .block_01.thumb_01, .block_00 .block_02.thumb_01, .block_00 .block_03.thumb_01, .block_00 .block_04.thumb_01, .block_00 .block_05.thumb_01, .block_00 .block_11.thumb_01 {
+	overflow: visible;
+}
+.block_01, .block_02, .block_03, .block_04, .block_05, .block_11 {
+	position: relative;
+	margin-bottom: 18px;
+	padding: 11px 16px;
+	z-index: 0;
+}
+.popupdiv {
+	display: none;
+	position: absolute !important;
+	max-width: 400px;
+	z-index: 1000;
+}
+@media screen and (max-width: 1000px) {
+	main, #main {
+		width: 100%;
+		min-width: 320px;
+	}
+}
+@media screen and (max-width: 768px) {
+}
+@media screen and (max-width: 480px) {
+}

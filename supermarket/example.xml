@@ -1,0 +1,44 @@
+<root currentRid="26583" shopRid="26628" shopMainRid="26628" Supermarket_Const_Rid_Order="26659" cartRid="26641" serverName="template.655.ru" countRowInPage="20" user="0" maskURL="" isInfoReview="1" count="4" isUseAvailability="1" isShopView="0" defaultPic="none" NewWin="0" showart="1" isShowDescr="1" howToOrder="4" UseCart="1" ShowPicInTblGoods="1" ShowPriceInTblGoods="1" isShowPrice="1" isSeller="0" isViewSupply="1" isViewBigPrice="2" pg="1" tovType="1" page="1" how_to_basket="3" order_by="name" isUseDigitalGoods="1" isReserveView="3" isMng="0" how_to_order="ascending">
+	<good sort="1" id="36701" tovNum="249" tovType="0" tovVid="0" hot="1" articul="goods_36701" url="/i_shop/part/goods" name="Название некоторого товара синего цвета и свойства" point="Единственная" pointURL="/" section="Товары" pic="36759.jpg" fileSmall="goods_36701.ogg" isShowPrice="1" currency="руб." price="1028.3" reports="0" rid="28612" isShowDetailedLink="1" hotType="Хит продаж" hotPic="st_star_yellow" action_end="-" reserveAlert="0" num="2" reserve="-1" isInCart="0" count="0">
+		<price currency="руб." priceCur="1028.3" price_old1="1187.00" price_old2="1028.3" price_SU="0" />
+	</good>
+	<good review="Краткое описание некоторого товара красного цвета и свойства." sort="2" id="36703" tovNum="250" tovType="0" tovVid="0" hot="1" articul="goods_36703" url="/i_shop/part/goods" name="Название некоторого товара красного цвета и свойства" point="Единственная" pointURL="/" section="Товары" pic="36758.jpg" fileSmall="" isShowPrice="1" currency="руб." price="350" reports="0" rid="28612" isShowDetailedLink="1" hotType="" action_end="-" reserveAlert="0" num="1" reserve="-3" isInCart="0" count="0">
+		<price currency="руб." priceCur="350" price_old1="400.00" price_old2="350" price_SU="0" />
+	</good>
+	<good sort="3" id="36705" tovNum="251" tovType="0" tovVid="0" hot="1" articul="goods_36705" url="/i_shop/part/goods" name="Название некоторого товара зелёного цвета и свойства" point="Единственная" pointURL="/" section="Товары" pic="36757.jpg" fileSmall="" isShowPrice="1" currency="руб." price="800" reports="0" rid="28612" isShowDetailedLink="1" hotType="Новинка" hotPic="st_star_green" action_end="-" reserveAlert="0" num="7" reserve="4" isInCart="0" count="0">
+		<price currency="руб." priceCur="800" price_old1="820.00" price_old2="800" price_SU="0" />
+	</good>
+	<good sort="4" id="36707" tovNum="252" tovType="0" tovVid="0" hot="1" articul="goods_36707" url="/i_shop/part/goods" name="Название некоторого товара жёлтого цвета и свойства" point="Единственная" pointURL="/" section="Товары" pic="36756.jpg" fileSmall="" isShowPrice="1" currency="руб." price="500" reports="1" rid="28612" isShowDetailedLink="1" hotType="Рекомендуем" hotPic="st_star_blue" action_end="-" reserveAlert="0" num="95" reserve="0" isInCart="0" count="0">
+		<price currency="руб." priceCur="500" price_old1="597.31" price_old2="500" price_SU="0" />
+	</good>
+	<good sort="" id="" tovNum="" tovType="0" tovVid="0" hot="1" articul="goods_00000" url="/i_shop/part/goods" name="Название некоторого товара другого цвета и свойства" point="Единственная" pointURL="/" section="Товары" pic="36758.jpg" fileSmall="" isShowPrice="1" currency="руб." price="500" rid="28612" isShowDetailedLink="1" hotType="Просто" hotPic="st_star_grey" action_end="-" reserveAlert="0" num="95" reserve="0" isInCart="0" count="0">
+		<price currency="руб." priceCur="500" price_old1="597.31" price_old2="500" price_SU="0" />
+	</good>
+	<good sort="" id="" tovNum="" tovType="0" tovVid="0" hot="1" articul="goods_00000" url="/i_shop/part/goods" name="Название некоторого товара другого цвета и свойства" point="Единственная" pointURL="/" section="Товары" pic="36758.jpg" fileSmall="" isShowPrice="1" currency="руб." price="500" reports="23" rid="28612" isShowDetailedLink="1" hotType="Просто" hotPic="st_star_grey" action_end="-" reserveAlert="0" num="95" reserve="0" isInCart="0" count="0">
+		<price currency="руб." priceCur="500" price_old1="597.31" price_old2="500" price_SU="0" />
+	</good>
+	<good sort="" id="" tovNum="" tovType="0" tovVid="0" hot="1" articul="goods_00000" url="/i_shop/part/goods" name="Название некоторого товара другого цвета и свойства" point="Единственная" pointURL="/" section="Товары" pic="36758.jpg" fileSmall="" isShowPrice="1" currency="руб." price="500" reports="1" rid="28612" isShowDetailedLink="1" hotType="Просто" hotPic="st_star_grey" action_end="-" reserveAlert="0" num="95" reserve="0" isInCart="0" count="0">
+		<price currency="руб." priceCur="500" price_old1="597.31" price_old2="500" price_SU="0" />
+	</good>
+	<good sort="" id="" tovNum="" tovType="0" tovVid="0" hot="1" articul="goods_00000" url="/i_shop/part/goods" name="Название некоторого товара другого цвета и свойства" point="Единственная" pointURL="/" section="Товары" pic="36758.jpg" fileSmall="" isShowPrice="1" currency="руб." price="500" reports="1" rid="28612" isShowDetailedLink="1" hotType="Просто" hotPic="st_star_grey" action_end="-" reserveAlert="0" num="95" reserve="0" isInCart="0" count="0">
+		<price currency="руб." priceCur="500" price_old1="597.31" price_old2="500" price_SU="0" />
+	</good>
+	<good sort="" id="" tovNum="" tovType="0" tovVid="0" hot="1" articul="goods_00000" url="/i_shop/part/goods" name="Название некоторого товара другого цвета и свойства" point="Единственная" pointURL="/" section="Товары" pic="36758.jpg" fileSmall="" isShowPrice="1" currency="руб." price="500" reports="1" rid="28612" isShowDetailedLink="1" hotType="Просто" hotPic="st_star_grey" action_end="-" reserveAlert="0" num="95" reserve="0" isInCart="0" count="0">
+		<price currency="руб." priceCur="500" price_old1="597.31" price_old2="500" price_SU="0" />
+	</good>
+	<good sort="" id="" tovNum="" tovType="0" tovVid="0" hot="1" articul="goods_00000" url="/i_shop/part/goods" name="Название некоторого товара другого цвета и свойства" point="Единственная" pointURL="/" section="Товары" pic="36758.jpg" fileSmall="" isShowPrice="1" currency="руб." price="500" reports="1" rid="28612" isShowDetailedLink="1" hotType="Просто" hotPic="st_star_grey" action_end="-" reserveAlert="0" num="95" reserve="0" isInCart="0" count="0">
+		<price currency="руб." priceCur="500" price_old1="597.31" price_old2="500" price_SU="0" />
+	</good>
+	<good sort="" id="" tovNum="" tovType="0" tovVid="0" hot="1" articul="goods_00000" url="/i_shop/part/goods" name="Название некоторого товара другого цвета и свойства" point="Единственная" pointURL="/" section="Товары" pic="36758.jpg" fileSmall="" isShowPrice="1" currency="руб." price="500" reports="1" rid="28612" isShowDetailedLink="1" hotType="Просто" hotPic="st_star_grey" action_end="-" reserveAlert="0" num="95" reserve="0" isInCart="0" count="0">
+		<price currency="руб." priceCur="500" price_old1="597.31" price_old2="500" price_SU="0" />
+	</good>
+	<good sort="" id="" tovNum="" tovType="0" tovVid="0" hot="1" articul="goods_00000" url="/i_shop/part/goods" name="Название некоторого товара другого цвета и свойства" point="Единственная" pointURL="/" section="Товары" pic="36758.jpg" fileSmall="" isShowPrice="1" currency="руб." price="500" reports="1" rid="28612" isShowDetailedLink="1" hotType="Просто" hotPic="st_star_grey" action_end="-" reserveAlert="0" num="95" reserve="0" isInCart="0" count="0">
+		<price currency="руб." priceCur="500" price_old1="597.31" price_old2="500" price_SU="0" />
+	</good>
+	<good sort="" id="" tovNum="" tovType="0" tovVid="0" hot="1" articul="goods_00000" url="/i_shop/part/goods" name="Название некоторого товара другого цвета и свойства" point="Единственная" pointURL="/" section="Товары" pic="36758.jpg" fileSmall="" isShowPrice="1" currency="руб." price="500" reports="1" rid="28612" isShowDetailedLink="1" hotType="Просто" hotPic="st_star_grey" action_end="-" reserveAlert="0" num="95" reserve="0" isInCart="0" count="0">
+		<price currency="руб." priceCur="500" price_old1="597.31" price_old2="500" price_SU="0" />
+	</good>
+	<paging count="0" page="1" countRowInPage="20" isInCart="0">
+		<page label="1" n="1" isA="0" link="?rid=26583&amp;pageHot=1" />
+	</paging>
+</root>
